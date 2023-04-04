@@ -1,16 +1,9 @@
 # NES Waveforms
-An NES Homebrew ROM that plays a bunch of waveforms that you can use to make virtual instruments. Rom tested on OpenEmu emulator but should run on others too.
 
-The play order:
+![NES Cart](https://github.com/NickCulbertson/VidTest/blob/master/NES_Thumbnail.png)
 
-12.5% Pulse
+An NES Homebrew ROM that plays a bunch of waveforms that you can use to make virtual instruments. Rom tested on OpenEmu emulator, but it should run on others too.
 
-25% Pulse
+## Features
 
-Square
-
-75% Pulse
-
-Triangle
-
-Noise
+• Chromatic scale of each waveform played in order: 12.5% Pulse, 25% Pulse, Square, 75% Pulse, Triangle, Noise
